@@ -56,7 +56,7 @@ The program offsets the number of days in the past to match the seasonal scenery
 ### 🟩 Stage 3
 - Name/Alias: ChristinaLLLL
 - Github account: https://github.com/ChristinaLLLL
-- Published webpage for stage 3:
+- Published webpage for stage 3:https://christinallll.github.io/Stage-Three-Exquisite-Corpse-Blorange/
 
 *I started off reading an article for research.  I wanted to make images move with the input of a sound file.  This is the sound file I downloaded from https://nz.7digital.com/download/842515579. 
 I worked for 3 hours trying to be successful but could not figure out how to make the idea work.  
