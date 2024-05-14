@@ -54,11 +54,23 @@ The program offsets the number of days in the past to match the seasonal scenery
 
 
 ### 🟩 Stage 3
-- Name/Alias:
+- Name/Alias: ChristinaLLLL
 - Github account:
 - Published webpage for stage 3:
 
-*... comments to be added here*
+*I started off reading an article for research.  I wanted to make images move with the input of a sound file.  This is the sound file I downloaded from https://nz.7digital.com/download/842515579. 
+I worked for 3 hours trying to be successful but could not figure out how to make the idea work.  
+https://albertfrantz.medium.com/becoming-a-data-artist-using-data-to-create-art-bdd1f90bb080
+
+
+I went back to the Stage 2 idea to redevelop my plan.  I kept two of the images to respond to and deleted all of the coding.  I re-watched the FA205 tutorial on the Visualization of Data Sets but did not want to work from the same CVS file.  I found a coding video teaching a lesson on Quicksort Visualization on YouTube from The Coding Train.  It uses an array to write a function to sort data quickly.  The function starts with random values and sorts all the data until everything is in place to how you decide you want to sort it. A partition is created as a pivot to sort data from one side to the other until it is complete. It goes to the left or right of the pivot point until all data is where it needs to be.  The scan tool goes through the data from left to right, over and over.  
+
+I used ChatGPT to play with adding the images to the background; however, I could not load the images.  
+
+I responded to Stage 2 using the two images as inspiration.  The images are horizontal land spaces with colours of blue and orange.  My data starts horizontally and becomes a vertical mountain of lines to represent order.  The environment versus the computed generated image of the fake landscape. 
+
+My issue with coding and art is that I find it very difficult to act on the ideas I have in my head.  Also, time does not seem to equal the output of results.  Something that took 7 hours looks like 30 minutes of work.  I find the creative process of coding frustrating. 
+*
 
 ### 🟦 Stage 4
 - Name/Alias:
